@@ -13,11 +13,6 @@ Noah de Boer - ST10284617
 - Clean and simple interface
 - One-tap joke/meme refresh
 
-## Screenshots 📸
-
-| Joke Screen | Meme Screen |
-|-------------|-------------|
-| ![Joke Screen](screenshots/joke_screen.png) | ![Meme Screen](screenshots/meme_screen.png) |
 
 ## Technologies Used 🛠️
 
